@@ -1,9 +1,9 @@
 {
 	"name": "Flare Stack",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"title": "Flare Stack",
 	"author": "GotLag",
 	"homepage": "",
 	"description": "Adds a flare stack to dispose of unwanted petroleum products.",
-	"dependencies": ["base >= 0.12.00"]
+	"dependencies": ["base >= 0.12.00", "? N.Tech-Chemistry >= 1.5.3", "? bobplates >= 0.12.10"]
 }
